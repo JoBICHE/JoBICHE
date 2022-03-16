@@ -2,7 +2,7 @@
 
 I'm Jo, from LILLE, FRANCE, 34 yo.
 
-I'm a freelance web developper & teacher.
+I'm a freelance web developper & teacher @ tech trainer at PrestaShop
 
 # SKILLS
 
@@ -18,20 +18,22 @@ I'm a freelance web developper & teacher.
 - JAVASCRIPT
 - HTML5
 - CSS3
+- SASS
 - BOOTSTRAP
 - I’m currently learning REACT
 
 ## Other skills :
 
+- PrestaShop
 - trained in digital accessibility
 - certified by OPQUAST (https://www.opquast.com) : advanced quality control in web projects.
 - VBA / ACCESS
 
 # I’m currently working on :
 
+- my PrestaShop activities
 - finalize my new website (https://www.jobiche.fr (coming soon)).
-- giving HTML/CSS , PHP & SYMFONY training sessions during the next few weeks.
-- deploying a vba application update for a big French merchandising company.
+- deploying a VBA application update for a big French merchandising company.
 
 # I’m looking to collaborate on :
 
@@ -64,17 +66,3 @@ https://twitter.com/JoBicheDev
 
 https://www.instagram.com/jobichedev/
 
-<!--
-**JoBICHE/JoBICHE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
