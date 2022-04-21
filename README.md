@@ -2,7 +2,7 @@
 
 I'm Jo, from LILLE, FRANCE, 34 yo.
 
-I'm a freelance web developper & teacher & tech trainer @ PrestaShop
+I'm a freelance web developper & trainer + tech trainer @ PrestaShop
 
 # SKILLS
 
